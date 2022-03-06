@@ -12,5 +12,5 @@ A basic Backend application created with NodeJS, PostgreSQL.
 - Writing request methods/VERBs.
 - Next function and responsing with errors.
 - Working with SQL and PostgreSQL.
-- RESTful API.
+- RESTFUL API.
 - Changing mod of files, making them executable.
